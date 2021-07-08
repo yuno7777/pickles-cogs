@@ -48,4 +48,4 @@ client.on("ready", () => {
 })
 
 // Login through the client
-client.login(mySecret);
+client.login(config.token);
