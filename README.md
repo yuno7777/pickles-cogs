@@ -7,7 +7,7 @@ ID - 497770611578503261 </h1>
 
  <h3 align='center'> Categories 📑 </h3>
  
- **[Invite Bot](https://discord.com/api/oauth2/authorize?client_id=862144708789010432&permissions=4294836177&scope=bot)
+ **[Invite Bot](https://discord.com/api/oauth2/authorize?client_id=862144708789010432&permissions=4294836177&scope=bot)**
  
 - 🥑 Fun
 - 🥑 Info
